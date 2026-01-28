@@ -6,4 +6,4 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on hydrological modeling with AI
-- 📫 How to reach me: https://github.com/OuyangWenyu
+- 📫 How to reach me: [https://ouyangwenyu.github.io](https://ouyangwenyu.github.io/)
